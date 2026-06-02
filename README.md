@@ -1,0 +1,29 @@
+# Trilha de estudos em Front-end
+
+## Objetivo do Repositório
+
+Este repositório é um registro prático do meu aprendizado na disciplina universitária de **Fundamentos da Programação Web**. O objetivo central é documentar minha evolução no Front-end, consolidando os conceitos teóricos através da escrita de código. 
+
+Como um desenvolvedor com foco em Back-end (Python, APIs, Automação...), este estudo visa construir a base técnica necessária sobre o ecossistema do lado do cliente. Compreender HTML, CSS e futuramente JavaScript me permite projetar APIs mais eficientes e ter autonomia na integração entre o servidor e a interface final.
+
+## Tecnologias e Conceitos Abordados
+
+O repositório está sendo construído de forma progressiva. Até o momento, os estudos cobrem:
+
+### HTML5 (Estrutura e Semântica)
+- **Estruturação Básica:** Uso de tags de cabeçalho (`<h1>` a `<h6>`) e parágrafos.
+- **Listas:** Implementação de listas ordenadas (`<ol>`) e não ordenadas (`<ul>`).
+- **Navegação:** Criação de hiperlinks (`<a>`) internos e externos.
+- **Mídia:** Inserção e manipulação de atributos de imagens (`<img>`).
+- **Tabelas:** Estruturação de dados tabulares (`<table>`, `<tr>`, `<th>`, `<td>`).
+- **Formulários:** Coleta de dados do usuário (`<form>`, `<input>`, `<select>`, `radio`, `checkbox`, `<textarea>`).
+
+### CSS3 (Estilização e Layout)
+- **Seletores:** Aplicação de estilos via seletores de tag, `class` e `id`.
+- **Implementação:** Uso de CSS inline, interno (`<style>`) e arquivos externos (`.css`).
+- **Box Model:** Compreensão e aplicação de margens (`margin`), preenchimento (`padding`), bordas (`border`) e dimensionamento (`box-sizing`).
+
+## Próximos Passos
+- [ ] Aprofundamento em layouts com CSS (Flexbox e Grid).
+- [ ] Introdução ao **JavaScript** para manipulação do DOM e interatividade.
+- [ ] Construção de uma página estática completa unindo os três pilares (HTML, CSS e JS).
